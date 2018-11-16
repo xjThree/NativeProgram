@@ -1,0 +1,6 @@
+use_frameworks!
+target 'NativeProgram_Tests' do
+  pod 'NativeProgram', :path => '../'
+  
+  
+end
