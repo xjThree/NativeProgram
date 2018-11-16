@@ -1,0 +1,16 @@
+PODS:
+  - NativeProgram (0.1.0)
+
+DEPENDENCIES:
+  - NativeProgram (from `../`)
+
+EXTERNAL SOURCES:
+  NativeProgram:
+    :path: "../"
+
+SPEC CHECKSUMS:
+  NativeProgram: 7857d94a059d7b65786bd92276cd5c0e7bacf27c
+
+PODFILE CHECKSUM: 2dae8a8cf26a40a080642a3cdf5d6c2e3ef57d13
+
+COCOAPODS: 1.5.3
